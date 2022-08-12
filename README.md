@@ -4,7 +4,7 @@
 
 
 ### Overview :book:
-CRUD usando React Native, Expo.CLI and TypeScript utilizando o banco de dados WatermelonDB :watermelon:.
+CRUD usando React Native, Expo.CLI e TypeScript utilizando o banco de dados WatermelonDB :watermelon:.
 
 ### How to use :toolbox:
 
